@@ -7,6 +7,7 @@
 
 Some videos require Registration only, other require Synchronization, and some require both jointely.
 
+The videos are from the Princeton RGBD benchmark[2,3].
 1) For any video that requires registration, a folder named "registered_depth" can be found where manual registration with
 RGB images have been conducted. Keep in mind the registration is not global but rather local on the target being tracked.
 
@@ -62,3 +63,9 @@ Videos that need both:
     'new_student_center3'
     'studentcenter3.1'
     'walking_no_occ'
+    
+    
+    Referrences:
+    [1] "3D Part-Based Sparse Tracker with Automatic Synchronization and Registration", Computer Vision and Pattern Recognition (CVPR16).
+    [2] "Tracking Revisited using RGBD Camera: Unified Benchmark and Baselines", IEEE International Conference on Computer Vision (ICCV2013)
+    [3] http://tracking.cs.princeton.edu
