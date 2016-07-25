@@ -1,9 +1,9 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-			3D Part-Based Sparse Tracker with Automatic Synchronization and Registration
-							Adel Bibi, Tianzhu Zhang, and Bernard Ghanem
-				King Abdullah University of Science and Technology (KAUST), Saudi Arabia
-						{adel.bibi,tianzhu.zhang,bernard.ghanem}@kaust.edu.sa
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	3D Part-Based Sparse Tracker with Automatic Synchronization and Registration
+				Adel Bibi, Tianzhu Zhang, and Bernard Ghanem
+		King Abdullah University of Science and Technology (KAUST), Saudi Arabia
+			{adel.bibi,tianzhu.zhang,bernard.ghanem}@kaust.edu.sa
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Some videos require Registration only, other require Synchronization, and some require both jointely.
 
