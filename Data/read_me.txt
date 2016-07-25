@@ -69,7 +69,7 @@ Videos that need both:
     'walking_no_occ'
     
     
-    Referrences:
+    References:
     [1] "3D Part-Based Sparse Tracker with Automatic Synchronization and Registration", Computer Vision and Pattern Recognition (CVPR16).
     [2] "Tracking Revisited using RGBD Camera: Unified Benchmark and Baselines", IEEE International Conference on Computer Vision (ICCV2013)
     [3] http://tracking.cs.princeton.edu
