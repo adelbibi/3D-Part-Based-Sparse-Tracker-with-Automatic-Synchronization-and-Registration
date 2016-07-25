@@ -1,13 +1,15 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-	3D Part-Based Sparse Tracker with Automatic Synchronization and Registration
+	3D Part-Based Sparse Tracker with Automatic Synchronization and Registration [1]
 				Adel Bibi, Tianzhu Zhang, and Bernard Ghanem
 		King Abdullah University of Science and Technology (KAUST), Saudi Arabia
 			{adel.bibi,tianzhu.zhang,bernard.ghanem}@kaust.edu.sa
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+The videos are from the Princeton RGBD benchmark[2,3].
+
+
 Some videos require Registration only, other require Synchronization, and some require both jointely.
 
-The videos are from the Princeton RGBD benchmark[2,3].
 1) For any video that requires registration, a folder named "registered_depth" can be found where manual registration with
 RGB images have been conducted. Keep in mind the registration is not global but rather local on the target being tracked.
 
@@ -17,6 +19,8 @@ to match the RGB sequence.
 3) As for videos that require both, the .mat file "Frame_sync" indicate the order in which the depth stream from the "registered_depth" has to be
 read in.
 
+
+For more details please read our paper [1].
 
 The list of videos follows:
 
